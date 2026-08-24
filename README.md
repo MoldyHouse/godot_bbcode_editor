@@ -1,6 +1,6 @@
 # BBCode Editor for Godot
 
-A simple visual BBCode editor and live preview for Godot 4.x.
+A simple visual BBCode editor and live preview for Godot 4.2+.
 
 <!-- Add the main editor image here. -->
 
