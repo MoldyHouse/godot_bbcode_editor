@@ -2,7 +2,8 @@
 
 A simple visual BBCode editor and live preview for Godot 4.2+.
 
-<!-- Add the main editor image here. -->
+<img width="1102" height="727" alt="screenshot_20260824_182750" src="https://github.com/user-attachments/assets/8f331ceb-abb5-4381-842e-268021871d75" />
+
 
 ## Features
 
@@ -13,7 +14,8 @@ A simple visual BBCode editor and live preview for Godot 4.2+.
 - Apply with `Ctrl+S`/`Cmd+S` and safe closing with `Esc`.
 - Reusable editor dialog for other Godot editor plugins.
 
-<!-- Add feature images here. -->
+<img width="1098" height="851" alt="screenshot_20260824_174955" src="https://github.com/user-attachments/assets/24f90cec-2525-4951-b904-aff50c703ca2" />
+
 
 ## Installation
 
