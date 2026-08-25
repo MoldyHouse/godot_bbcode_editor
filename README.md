@@ -1,3 +1,5 @@
+<img width="1244" height="352" alt="screenshot_20260825_113051" src="https://github.com/user-attachments/assets/b717421f-f148-42d8-b120-5ec0accb3f93" />
+
 # BBCode Editor for Godot
 
 A simple visual BBCode editor and live preview for Godot 4.2+.
@@ -10,7 +12,7 @@ A simple visual BBCode editor and live preview for Godot 4.2+.
 - Compact editor for BBCode-enabled `RichTextLabel` text.
 - Resizable source and real-time preview panes.
 - Formatting toolbar with common Godot BBCode tags.
-- Inspector integration and standalone Command Palette playground.
+- Inspector integration and standalone Command Palette playground. Press `Crtl + Shift + P` to open the command palette then type `bbcode`, select it to open the playground.
 - Apply with `Ctrl+S`/`Cmd+S` and safe closing with `Esc`.
 - Reusable editor dialog for other Godot editor plugins.
 
